@@ -1,0 +1,44 @@
+{
+  "name": "awwwards-stream",
+  "version": "1.0.0",
+  "description": "scrape Awwwards data",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "defined": "^1.0.0",
+    "from2": "^2.1.1",
+    "got": "^6.1.1",
+    "moment": "^2.11.2",
+    "url-join": "0.0.1"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.4.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "scrape",
+    "awwwards",
+    "data",
+    "url",
+    "urls",
+    "site",
+    "sites"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/awwwards-stream.git"
+  },
+  "homepage": "https://github.com/Jam3/awwwards-stream",
+  "bugs": {
+    "url": "https://github.com/Jam3/awwwards-stream/issues"
+  }
+}
