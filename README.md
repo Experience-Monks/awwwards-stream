@@ -48,6 +48,24 @@ The Grey Tales: http://thegreytales.net
 Finished
 ```
 
+See [./example.js](./example.js) for a more practical example, finding the countries that are publishing the last 600 Sites of the Day:
+
+```
+Total sites: 600
+
+ 1. U.S.A. (131)
+ 2. France (129)
+ 3. United Kingdom (48)
+ 4. Netherlands (48)
+ 5. Denmark (24)
+ 6. Canada (21)
+ 7. Italy (21)
+ 8. Germany (17)
+ 9. Belgium (17)
+10. Russia (12)
+
+```
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/awwwards-stream.png)](https://www.npmjs.com/package/awwwards-stream)

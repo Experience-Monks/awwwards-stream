@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "faucet": "0.0.1",
+    "pad-left": "^2.0.1",
     "tape": "^4.4.0"
   },
   "scripts": {
